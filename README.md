@@ -1,7 +1,7 @@
 # Multi-Company Consolidated Sales Dashboard (Supabase + Looker Studio)
 
 ## 📊 Live Project Link
-[👉 Click Here to Interact with the Live Dashboard](PASTE_YOUR_LOOKER_STUDIO_SHARE_LINK_HERE)
+[👉 Click Here to Interact with the Live Dashboard](https://datastudio.google.com/s/lqB9GPfBx8s))
 
 ## 📸 Dashboard Preview
 ![Consolidated Meat Sales Dashboard](dashboard_preview.png)
